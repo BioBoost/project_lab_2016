@@ -13,6 +13,5 @@ Reporting is done through the wiki of Redmine. It does not to adhere to a certai
 Redmine will be locked for each group 1 week after the final presentation; so Wednesday the 18th of May 2016. This means you will not be able change anything anymore after this date.
 
 
-![Bridge to Success](img/bridge-to-success.jpg)
->>> *Figure: [Bridge to Success](img/bridge-to-success.jpg)*
-
+![Teamwork](img/teamwork.jpg)
+>>> *Figure: [Teamwork](img/teamwork.jpg)*

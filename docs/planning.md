@@ -11,3 +11,6 @@ At the end of each project day an evaluation will be made for each group based o
 > **If it's not in the logs, it never happened !**
 
 ---
+
+![Failing to plan is planning to fail](img/planning.png)
+>>> *Figure: [Failing to plan is planning to fail](img/classic_arcade_game.png)*
