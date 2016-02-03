@@ -1,6 +1,6 @@
 # Reporting
 
-Reporting is done through the wiki of Redmine. It does not to adhere to a certain structure:
+Reporting is done through the wiki on Redmine. It does have to adhere to a certain structure:
 
 * index page with abstract and table of contents
 * introduction
