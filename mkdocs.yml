@@ -4,3 +4,5 @@ pages:
 - Introduction: index.md
 - Examples: examples.md
 - Top Level Design: top_level_design.md
+- Raspberry Pi: raspberry_pi.md
+- Project Requirements: project_requirements.md
